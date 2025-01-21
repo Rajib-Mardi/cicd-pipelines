@@ -10,3 +10,6 @@
 [submodule "Setup-continuous-deployment-to-AWS-EKS"]
 	path = Setup-continuous-deployment-to-AWS-EKS
 	url = https://github.com/Rajib-Mardi/Setup-continuous-deployment-to-AWS-EKS.git
+[submodule "CI-CD-with-Docker-Compose"]
+	path = CI-CD-with-Docker-Compose
+	url = https://github.com/Rajib-Mardi/CI-CD-with-Docker-Compose.git
