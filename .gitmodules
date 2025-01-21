@@ -16,3 +16,6 @@
 [submodule "Integrated-provisioning-stage-to-automate-provisioning-server"]
 	path = Integrated-provisioning-stage-to-automate-provisioning-server
 	url = https://github.com/Rajib-Mardi/Integrated-provisioning-stage-to-automate-provisioning-server.git
+[submodule "Integrated-Ansible-Playbook-execution-as-part-of-the-CI-CD-pipeline"]
+	path = Integrated-Ansible-Playbook-execution-as-part-of-the-CI-CD-pipeline
+	url = https://github.com/Rajib-Mardi/Integrated-Ansible-Playbook-execution-as-part-of-the-CI-CD-pipeline.git
