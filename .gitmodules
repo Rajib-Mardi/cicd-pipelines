@@ -13,3 +13,6 @@
 [submodule "CI-CD-with-Docker-Compose"]
 	path = CI-CD-with-Docker-Compose
 	url = https://github.com/Rajib-Mardi/CI-CD-with-Docker-Compose.git
+[submodule "Integrated-provisioning-stage-to-automate-provisioning-server"]
+	path = Integrated-provisioning-stage-to-automate-provisioning-server
+	url = https://github.com/Rajib-Mardi/Integrated-provisioning-stage-to-automate-provisioning-server.git
