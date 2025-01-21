@@ -4,3 +4,6 @@
 [submodule "Setup-continuous-deployment-to-AWS-EC2"]
 	path = Setup-continuous-deployment-to-AWS-EC2
 	url = https://github.com/Rajib-Mardi/Setup-continuous-deployment-to-AWS-EC2.git
+[submodule "Setup-continuous-deployment-to-kubernetes-cluster-on-AWS-EC2"]
+	path = Setup-continuous-deployment-to-kubernetes-cluster-on-AWS-EC2
+	url = https://github.com/Rajib-Mardi/Setup-continuous-deployment-to-kubernetes-cluster-on-AWS-EC2.git
