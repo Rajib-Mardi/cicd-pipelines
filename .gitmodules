@@ -1,3 +1,6 @@
 [submodule "Built-complete-CI-CD-pipelines-for-Dockerized-application-with-dynamic-versioning"]
 	path = Built-complete-CI-CD-pipelines-for-Dockerized-application-with-dynamic-versioning
 	url = https://github.com/Rajib-Mardi/Built-complete-CI-CD-pipelines-for-Dockerized-application-with-dynamic-versioning.git
+[submodule "Setup-continuous-deployment-to-AWS-EC2"]
+	path = Setup-continuous-deployment-to-AWS-EC2
+	url = https://github.com/Rajib-Mardi/Setup-continuous-deployment-to-AWS-EC2.git
